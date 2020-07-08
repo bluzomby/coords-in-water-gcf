@@ -1,2 +1,4 @@
 .env.yaml
 venv/
+.gcloudignore
+__pycache__/
